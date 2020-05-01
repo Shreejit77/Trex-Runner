@@ -30,7 +30,7 @@ function preload(){
   obstacle6 = loadImage("obstacle6.png");
   
   gameOverImg = loadImage("gameOver.png");
-  restartImg = loadImage("restart.png")
+  restartImg = loadImage("restart.png");
 }
 
 function setup() {
